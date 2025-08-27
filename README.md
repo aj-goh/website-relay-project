@@ -34,6 +34,7 @@ Deploy using GitHub Pages and showcase all sites!
   ```
 
 ## 🗂 Folder Structure
+
 ```
 / (root)
 │
@@ -53,11 +54,7 @@ Deploy using GitHub Pages and showcase all sites!
 We use **GitHub Pages**:
 
 * **Settings → Pages → Source:** `main` branch, `/ (root)` folder.
-* Websites will be live at:
-
-  ```
-  https://USERNAME.github.io/REPO-NAME/
-  ```
+* Websites will be live at https://aj-goh.github.io/website-relay-project/
 
 ## 👥 Team
 
